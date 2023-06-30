@@ -1,4 +1,5 @@
 # Apache Flink Dynamic Config
+![change_main workflow](https://github.com/eBay/flink-dynamic-config/actions/workflows/change_main.yml/badge.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
 This project is to provide an easy-to-use and general-purpose way to overcome the problem about how to update configs dynamically for a running [Apache Flink](https://flink.apache.org/) job without stopping it. It exposes a simple interface and hides the complex streaming handling logic to enable the same as 
