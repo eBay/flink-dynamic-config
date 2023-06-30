@@ -1,5 +1,5 @@
 # Apache Flink Dynamic Config
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)]([code_of_conduct.md](https://www.contributor-covenant.org/version/2/1/code_of_conduct/))
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
 This project is to provide an easy-to-use and general-purpose way to overcome the problem about how to update configs dynamically for a running [Apache Flink](https://flink.apache.org/) job without stopping it. It exposes a simple interface and hides the complex streaming handling logic to enable the same as 
 suggested by [Apache Broadcast Pattern](https://flink.apache.org/2019/06/26/a-practical-guide-to-broadcast-state-in-apache-flink/).
