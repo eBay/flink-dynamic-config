@@ -2,12 +2,7 @@
 
 ## Supported Versions
 
-The versions of this project are
-currently being supported as following:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.0   | :white_check_mark: |
+Currently, there is no one released version of this project. Once the supported version is released whose version will be listed here.
 
 ## Reporting a Vulnerability
 
